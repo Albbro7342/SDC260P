@@ -102,3 +102,30 @@ tfoot td {
   font-style: italic;
   border-top: 2px solid #ccc;
 }
+/* Navigation Flexbox */
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    list-style: none;
+}
+/* Main Flexbox */
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+/* Contact Form Flexbox */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+/* Input + Textarea transitions */
+input, textarea {
+    transition: border-color 0.3s ease;
+}
+/* Submit button transition */
+input[type="submit"] {
+    transition: background-color 0.3s ease;
+}
