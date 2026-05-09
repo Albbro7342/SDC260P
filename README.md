@@ -29,4 +29,4 @@ To view this website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Albbro7342/SDC260P/tree/main)
+   git clone(https://github.com/Albbro7342/SDC260P/tree/main)
